@@ -1,0 +1,91 @@
+* {
+	margin:0px;
+	padding:0px;
+}
+
+
+body {
+	padding: 20px;
+	margin: 20px;
+	font-family: helvetica;
+	font-size: 40px;
+	line-height: 70px;
+}
+
+.book-container {
+	height: 250px;
+	width: 700px;
+	outline-style: solid;
+	outline-width: 5px;
+	outline-color: black;
+	position: relative;
+}
+
+.book-1 {
+	height: 250px;
+	width: 100px;
+	outline-style: solid;
+	outline-width: 5px;
+	outline-color: black;
+	position: absolute;
+}
+
+.book-2 {
+	left: 105px;
+	height: 250px;
+	width: 80px;
+	outline-style: solid;
+	outline-width: 5px;
+	outline-color: black;
+	position: absolute;
+}
+
+.book-3 {
+	left: 190px;
+	height: 250px;
+	width: 60px;
+	outline-style: solid;
+	outline-width: 5px;
+	outline-color: black;
+	position: absolute;
+}
+
+.book-4 {
+	left: 255px;
+	height: 250px;
+	width: 120px;
+	outline-style: solid;
+	outline-width: 5px;
+	outline-color: black;
+	position: absolute;
+}
+
+.book-5 {
+	left: 380px;
+	height: 250px;
+	width: 70px;
+	outline-style: solid;
+	outline-width: 5px;
+	outline-color: black;
+	position: absolute;
+}
+
+.book-6 {
+	left: 455px;
+	height: 250px;
+	width: 90px;
+	outline-style: solid;
+	outline-width: 5px;
+	outline-color: black;
+	position: absolute;
+}
+
+.book-7 {
+	left: 550px;
+	height: 250px;
+	width: 90px;
+	outline-style: solid;
+	outline-width: 5px;
+	outline-color: black;
+	position: absolute;
+}
