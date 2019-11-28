@@ -1,0 +1,94 @@
+* {
+	margin:0px;
+	padding:0px;
+}
+
+body {
+	padding: 250px;
+	background: #95A2FF;
+}
+
+@font-face {
+	src: url(Fonts/Montserrat-Bold.ttf);
+	font-family: Montserrat-Bold;
+}
+
+@font-face {
+	src: url(Montserrat-Light.ttf);
+	font-family: Montserrat-Light;
+}
+
+
+.dream-container {
+	height: 400px;
+	border-color: transparent;
+	border-style: solid;
+	position: relative;
+	text-align: center;
+}
+
+
+.dream-decoder {
+	font-size: 100px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: Montserrat-Bold;
+	letter-spacing: 45px;
+	margin: 0 auto;
+	color: white;
+	position: absolute;
+	color: transparent;
+
+}
+
+.question-1 {
+	font-size: 50px;
+	font-weight: bold;
+	font-family: Montserrat-Bold;
+	position: absolute;
+	color: white;
+	margin: 0 auto;
+}
+
+
+.form {
+	width: 125px;
+	height: 60px;
+	text-align: center;
+	position: relative;
+	top: 150px;
+	left: 60px;
+}
+
+
+.form input {
+	font-size: 30px;
+	padding: 5px;
+	font-family: Montserrat-Light;
+	color: #7B8AE8;
+	border-radius: 50px;
+	border-color: transparent;
+	margin: 100px;
+	position: absolute;
+	background: white;
+	display: inline-block;
+}
+
+.next-sign {
+	border-color: transparent;
+	border-style: solid;
+	transform: scale(0.1,0.1);
+	position: absolute;
+	margin: 0 auto;
+	left: 410px;
+	top: -10px;
+}
+
+
+.hallway {
+	transform: scale(0.5,0.5);
+	position: absolute;
+	text-align: center;
+	left: -275px;
+	top: 40px;
+}
