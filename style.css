@@ -1,0 +1,78 @@
+
+* {
+	margin:5px;
+	padding:5px;
+}
+
+body {
+	background: rgb(152, 73, 255);
+	
+	position: fixed;
+
+}
+
+
+
+.emily {
+	font-family: monospace;
+	color: black;
+}
+
+.index {
+	font-family: monospace;
+	color: black;
+}
+
+.tableau-1{
+	font-family: monospace;
+	color: black;
+}
+
+.tableau-2 {
+	font-family: monospace;
+	color: black;
+}
+
+
+
+.reading-1 {
+	font-family: monospace;
+	color: black;
+}
+
+.reading-2 {
+	font-family: monospace;
+	color: black;
+}
+
+.reading-3 {
+	font-family: monospace;
+	color: black;
+}
+
+.letters {
+	font-family: monospace;
+	color: black;
+}
+
+.poster {
+	font-family: monospace;
+	color: black;
+}
+
+.web-verbs {
+	font-family: monospace;
+	color: black;
+}
+
+
+.net-doc {
+	font-family: monospace;
+	color: black;
+}
+
+.extra-sources {
+	font-family: monospace;
+	color: black;
+}
+
