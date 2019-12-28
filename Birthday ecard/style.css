@@ -1,0 +1,78 @@
+@font-face {
+	src: url(Fonts/ARCADECLASSIC.TTF);
+	font-family: Arcade;
+}
+
+
+* {
+	margin:0px;
+	padding:0px;
+
+
+}
+
+body {
+	background:#8ea3cd;
+
+}
+
+.computer {
+	transform: scale(1.3,1.3);
+	margin: 140px;
+
+}
+
+.text-container {
+	height: 255px;
+	width: 300px;
+	border-color: transparent;
+	border-style: solid;
+	left: 450px;
+	top: -865px;
+	position: relative; 
+
+}
+
+.typewriter h1 {
+	font-family: Arcade;
+	padding: 30px;
+	font-size: 35px;
+	line-height: 45px;
+	width: 210px;
+
+  	overflow: hidden; /* Ensures the content is not revealed until the animation */
+  	border-right: .15em solid orange; /* The typwriter cursor */
+  	white-space: nowrap; /* Keeps the content on a single line */
+  	margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  	letter-spacing: .15em; /* Adjust as needed */
+  	animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
+
+.buctkee-container {
+
+
+}
+.bucktee {
+	font-family: Arcade;
+
+}
+
+
+
+
+
+
